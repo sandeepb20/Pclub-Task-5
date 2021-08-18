@@ -1,141 +1,281 @@
-,Week,Lecture,link
+,WEEK,LECTURE,LINK
 0,"
+
+
+
+
           Week 0
-      ","
+      
+","
                                   Lab Vid 0 Download Install Instructions
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/6
 1,"
+
+
+
+
           Week 0
-      ","
+      
+","
                                   L0.1-The Course Plan
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/12
 2,"
+
+
+
+
           Week 0
-      ","
+      
+","
                                   L0.2_Why Study ESC201A
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/15
 3,"
+
+
+
+
           Week 1
-      ","
+      
+","
                                   Lab Vid 1 Microcap Intro
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/7
 4,"
+
+
+
+
           Week 1
-      ","
+      
+","
                                   L1.1_Charge, Current and Voltage
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/46
 5,"
+
+
+
+
           Week 1
-      ","
+      
+","
                                   L1.2_Power and Energy
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/47
 6,"
+
+
+
+
           Week 1
-      ","
+      
+","
                                   L1.3_Resistance and Conductance
                               ",https://hello.iitk.ac.in/esc201a21/#/instruction/61
 7,"
+
+
+
+
           Week 1
-      ","
+      
+","
                                   L1.4_Circuits
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/73
 8,"
+
+
+
+
           Week 1
-      ","
+      
+","
                                   L1.5_KCL
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/74
 9,"
+
+
+
+
           Week 1
-      ","
+      
+","
                                   L1.6_KVL
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/76
 10,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.7_Dependent Sources
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/82
 11,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.8_Equivalent Circuits with Resistors
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/83
 12,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.9_Voltage and Current Divider Circuits
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/84
 13,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.10a_Node Analysis
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/90
 14,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.10b_Mesh Analysis
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/91
 15,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.10c_Super Node and Super Mesh
                               ",https://hello.iitk.ac.in/esc201a21/#/instruction/87
 16,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.11a_Thévenin  Equivalent Circuit
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/96
 17,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.11b_Norton Equivalent Circuit
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/97
 18,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.12_Superposition
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/99
 19,"
+
+
+
+
           Week 2
-      ","
+      
+","
                                   L1.13_Power Transfer in DC Circuits
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/100
 20,"
+
+
+
+
           Week 3
-      ","
+      
+","
                                   L2.0_Passive Components
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/126
 21,"
+
+
+
+
           Week 3
-      ","
+      
+","
                                   L2.1a_Capacitor and Capacitance
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/128
 22,"
+
+
+
+
           Week 3
-      ","
+      
+","
                                   L2.1b_Inductor and Inductance
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/129
 23,"
+
+
+
+
           Week 3
-      ","
+      
+","
                                   L2.2_DC ckt switching - initial and final values
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/145
 24,"
+
+
+
+
           Week 3
-      ","
+      
+","
                                   L2.1c_General Points on C and L
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/130
 25,"
+
+
+
+
           Week 3
-      ","
+      
+","
                                   L2.3a_Discharging C thorugh R
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/149
 26,"
+
+
+
+
           Week 3
-      ","
+      
+","
                                   L2.3b_Charging C with V source through R
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/150
 27,"
+
+
+
+
           Week 3
-      ","
+      
+","
                                   L2.4_RL Transient Analysis
                               ",https://hello.iitk.ac.in/esc201a21/#/lecture/151
